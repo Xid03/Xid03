@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Yazid Zaqwan (Xid03)
+# 👨‍💻 Yazid Zaqwan Hakim
 
 <!-- Dynamic Profile Banner -->
 <img src="profile-banner.png" alt="Yazid Zaqwan's Premium Profile Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
